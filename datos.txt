@@ -5,7 +5,7 @@ Turno: Mañana
 Año: Cursada en 2022 - Final en 2023
 Cuatrimestre: Primer Cuatrimestre
 Docente: Marisa Kraiselburd
-Dominio: 
+Dominio: https://luquiber01.github.io/finalLogicaProgramacion/
 Carácter de entrega: Final
 Apellido: Bernath
 Nombre: Lucas
