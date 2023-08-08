@@ -1,0 +1,11 @@
+Carrera: Diseño Multimedial
+Materia: Lógica de la Programación
+Comisión: dmm1b (Del año 2022)
+Turno: Mañana
+Año: Cursada en 2022 - Final en 2023
+Cuatrimestre: Primer Cuatrimestre
+Docente: Marisa Kraiselburd
+Dominio: 
+Carácter de entrega: Final
+Apellido: Bernath
+Nombre: Lucas
